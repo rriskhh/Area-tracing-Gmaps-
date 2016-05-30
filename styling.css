@@ -1,0 +1,27 @@
+html, body {
+	height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#map {
+  margin:20px;
+  height: 600px;
+  width: 800px;
+  border:2px solid #C23213;
+}
+#floating-panel {
+	position: absolute;
+	top: 25px;
+	left: 15%;
+	z-index: 5;
+	background-color: #fff;
+	padding: 5px;
+	border: 1px solid #999;
+	text-align: center;
+	font-family: 'Times New Roman';
+  line-height: 20px;
+  padding-left: 10px;
+}
+#box{
+  margin-left: 20px;
+}
