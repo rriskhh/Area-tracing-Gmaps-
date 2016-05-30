@@ -9,6 +9,6 @@ Requirements::
 coordinates ::id, name(place), lat, lng
 restaurant:: name(place), rest_name(rest), lat, lng
 
-3. Edit database name, user and other details in database_info.php according to your system.
+3.Edit database name, user and other details in database_info.php according to your system.
   
 Start File :: home.php
